@@ -14,13 +14,6 @@ library(igraph)
 
 
 ```{r}
-ttt <- create_token(app = "World Cup Sentiment Indonesia",
-             consumer_key = "yUdfVej4mOvkaWozFCpTqphhS",
-             consumer_secret = "8nGIOBb4fglALUzJDmz8o6y1smiFIUndEavSPRHzQJ0eKQjD0G",
-             access_token = "72039627-VyMlUf82fj9oHTPHnz1QgxBLbEo20CCKqwhDt8qay",
-             access_secret = "rU8h13sKtXAOs78aMuXyrCPVq7vwvOJPK9Y6FgrYQf4X4")
-
-saveRDS(ttt, "ttt.RDS")
 ```
 
 ```{r}
