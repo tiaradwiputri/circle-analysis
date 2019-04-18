@@ -1,0 +1,24 @@
+---
+title: "Know-How"
+author: "Team Algoritma"
+date: "April 13, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(rtweet)
+library(tidyverse)
+library(tidygraph)
+library(igraph)
+```
+
+
+```{r}
+```
+
+```{r}
+user <- "tiaradwiputri"
+
+timeline <- get_timeline(user)
+```
+
