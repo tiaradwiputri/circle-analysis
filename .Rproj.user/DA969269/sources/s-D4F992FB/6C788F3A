@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555614662435.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2821361446",
+    "id" : "6C788F3A",
+    "lastKnownWriteTime" : 1555615744,
+    "last_content_update" : 1555615744616,
+    "path" : "A:/Packages/ciRcle/R/twitter_circle.R",
+    "project_path" : "R/twitter_circle.R",
+    "properties" : {
+        "cursorPosition" : "11,24",
+        "scrollLine" : "4"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
