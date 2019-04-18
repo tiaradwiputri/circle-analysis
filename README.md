@@ -18,12 +18,12 @@ create_token(app = "your app name",
 
 Head over to <developers.twitter.com> to gain your application access.
 
-## Using `get_circle()`
+## Using `mention_circle()`
 
 The function received username parameters.
 
 ```
-get_circle("username")
+mention_circle("username")
 ```
 
 To install use the following command:
