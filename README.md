@@ -16,18 +16,18 @@ create_token(app = "your app name",
              access_secret = "enter your access token secret")
 ```
 
-Head over to developers.twitter.com to gain your application access.
+Head over to (developers.twitter.com) to gain your application access.
 
 ## Using `get_circle()`
 
-The function received 2 parameters: username, and minimal mention.
+The function received username parameters.
 
 ```
-get_circle("username", 2)
+get_circle("username")
 ```
 
-Package dependencies are:  
-- `rtweet`  
-- `tidyverse`  
-- `tidygraph`  
-- `igraph`  
+To install use the following command:
+
+```
+devtools::install_github("tiaradwiputri/circle-analysis")
+```
